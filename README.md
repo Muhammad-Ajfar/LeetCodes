@@ -34,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0197-rising-temperature) |
+| [1415-students-and-examinations](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
