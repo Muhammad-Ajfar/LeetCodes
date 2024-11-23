@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0342-power-of-four) |
+| [2491-smallest-even-multiple](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2491-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2699-count-the-number-of-fair-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
