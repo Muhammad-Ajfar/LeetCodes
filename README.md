@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0066-plus-one) |
+| [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2491-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
