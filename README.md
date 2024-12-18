@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0119-pascals-triangle-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
