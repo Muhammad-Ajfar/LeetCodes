@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0342-power-of-four) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2481-strictly-palindromic-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
