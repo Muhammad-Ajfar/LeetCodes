@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0441-arranging-coins) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0441-arranging-coins) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
