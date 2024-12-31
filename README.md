@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0326-power-of-three) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2232-adding-spaces-to-a-string) |
