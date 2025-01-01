@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0119-pascals-triangle-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0119-pascals-triangle-ii) |
+| [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
 ## Memoization
 |  |
 | ------- |
