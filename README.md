@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
