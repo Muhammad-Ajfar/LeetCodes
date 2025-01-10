@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
