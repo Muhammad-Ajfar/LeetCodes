@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0782-jewels-and-stones) |
+| [0952-word-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Backtracking
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0782-jewels-and-stones) |
+| [0952-word-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0952-word-subsets) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
