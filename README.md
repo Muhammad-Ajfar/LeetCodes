@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0742-to-lower-case) |
