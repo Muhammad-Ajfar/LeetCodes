@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0952-word-subsets) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0782-jewels-and-stones) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2442-number-of-arithmetic-triplets) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
