@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3226-minimum-number-game) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
