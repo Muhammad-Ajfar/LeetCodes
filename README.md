@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2232-adding-spaces-to-a-string) |
