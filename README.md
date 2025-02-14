@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2442-number-of-arithmetic-triplets) |
 | [2634-minimum-common-value](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2634-minimum-common-value) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3226-minimum-number-game) |
@@ -335,4 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
