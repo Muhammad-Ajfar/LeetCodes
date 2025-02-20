@@ -1,27 +1,29 @@
-using System.Collections.Generic;
-
 public class Solution {
     public int MinOperations(int[] nums, int k) {
-        PriorityQueue<long, long> pq = new PriorityQueue<long, long>();
+        var priorityQueue = new PriorityQueue<int, int>();
 
-        // Populate priority queue (Min-Heap)
-        foreach (int num in nums) {
-            pq.Enqueue(num, num);
+        foreach (var num in nums)
+        {
+            if (num < k)
+            {
+                priorityQueue.Enqueue(num, num);
+            }
         }
 
-        int operations = 0;
+        var res = 0;
+        while (priorityQueue.Count > 1)
+        {
+            var x = priorityQueue.Dequeue();
+            var y = priorityQueue.Dequeue();
 
-        // Process until the smallest element is at least k
-        while (pq.Peek() < k) {
-            long min1 = pq.Dequeue();
-            long min2 = pq.Dequeue();
+            if (x * 2 < k - y)
+            {
+                priorityQueue.Enqueue(x * 2 + y, x * 2 + y);
+            }
 
-            // Merge the two smallest elements
-            long newVal = min1 * 2 + min2;
-            pq.Enqueue(newVal, newVal);
-            operations++;
+            res++;
         }
 
-        return operations;
+        return res + priorityQueue.Count;
     }
 }
