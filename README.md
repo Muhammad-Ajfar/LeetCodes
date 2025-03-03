@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2634-minimum-common-value](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2634-minimum-common-value) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -403,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1477-product-of-the-last-k-numbers) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
