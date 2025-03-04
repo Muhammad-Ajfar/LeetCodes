@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1677-matrix-diagonal-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1610-xor-operation-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2491-smallest-even-multiple) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0119-pascals-triangle-ii) |
 | [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
