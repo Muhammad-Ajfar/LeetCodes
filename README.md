@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
 | [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1293-three-consecutive-odds) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0441-arranging-coins) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2634-minimum-common-value) |
