@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -480,4 +483,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
