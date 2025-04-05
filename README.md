@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2107-find-unique-binary-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2491-smallest-even-multiple) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1677-matrix-diagonal-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
