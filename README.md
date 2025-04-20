@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1677-matrix-diagonal-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2998-count-symmetric-integers) |
