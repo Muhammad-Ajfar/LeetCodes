@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Backtracking
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Tree
 |  |
 | ------- |
