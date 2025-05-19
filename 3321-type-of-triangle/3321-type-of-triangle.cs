@@ -1,15 +1,19 @@
 public class Solution {
     public string TriangleType(int[] nums) {
-        if(nums[0] >= nums[1] + nums[2] || nums[1] >= nums[0] + nums[2] || nums[2] >= nums[1] + nums[0]) 
-        {
+        int a = nums[0], b = nums[1], c = nums[2];
+        
+        if (a > b) { int temp = a; a = b; b = temp; }
+        if (a > c) { int temp = a; a = c; c = temp; }
+        if (b > c) { int temp = b; b = c; c = temp; }
+        
+        if (a + b <= c) {
             return "none";
         }
-        if(nums[0] == nums[1] && nums[0] == nums[2])
-        {
+        
+        if (a == b && b == c) {
             return "equilateral";
         }
-        if(nums[0] == nums[1] || nums[0] == nums[2] || nums[1] == nums[2])
-        {
+        if (a == b || b == c) {
             return "isosceles";
         }
         return "scalene";
