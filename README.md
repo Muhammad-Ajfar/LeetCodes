@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2649-count-total-number-of-colored-cells) |
+| [2752-sum-multiples](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2752-sum-multiples) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2998-count-symmetric-integers) |
