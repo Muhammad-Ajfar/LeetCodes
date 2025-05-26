@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2048-build-array-from-permutation) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
