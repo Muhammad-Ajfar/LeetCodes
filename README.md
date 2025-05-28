@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3001-apply-operations-to-maximize-score) |
+| [3055-maximum-odd-binary-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3055-maximum-odd-binary-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3001-apply-operations-to-maximize-score) |
+| [3055-maximum-odd-binary-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Queue
