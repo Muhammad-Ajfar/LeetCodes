@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
