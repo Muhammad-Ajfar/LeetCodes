@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2634-minimum-common-value) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3055-maximum-odd-binary-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
