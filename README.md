@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3226-minimum-number-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3226-minimum-number-game) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
 ## Number Theory
 |  |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Queue
 |  |
