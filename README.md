@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2448-count-number-of-bad-pairs) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
