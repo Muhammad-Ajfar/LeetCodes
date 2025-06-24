@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Brainteaser
 |  |
 | ------- |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Tree
 |  |
 | ------- |
