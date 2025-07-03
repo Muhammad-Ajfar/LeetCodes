@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Database
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
