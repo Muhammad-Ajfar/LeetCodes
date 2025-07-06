@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2280-count-good-triplets-in-an-array) |
 ## String Matching
