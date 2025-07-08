@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0797-rabbits-in-forest) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0782-jewels-and-stones) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2048-build-array-from-permutation) |
