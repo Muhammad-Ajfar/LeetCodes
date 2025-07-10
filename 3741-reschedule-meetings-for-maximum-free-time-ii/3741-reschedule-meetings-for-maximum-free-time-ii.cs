@@ -1,39 +1,47 @@
 public class Solution {
     public int MaxFreeTime(int eventTime, int[] startTime, int[] endTime) {
         int n = startTime.Length;
-        int[] gaps = new int[n + 1];
+        bool[] canMove = new bool[n];
 
-        // Fill gaps array
-        gaps[0] = startTime[0];
-        for (int i = 1; i < n; i++)
-            gaps[i] = startTime[i] - endTime[i - 1];
-        gaps[n] = eventTime - endTime[n - 1];
+        int maxLeftGap = 0;
+        for (int i = 0; i < n; i++) {
+            int duration = endTime[i] - startTime[i];
 
-        Array.Sort(gaps); // ascending
+            // If this meeting can fit into any previous gap
+            if (duration <= maxLeftGap)
+                canMove[i] = true;
+
+            // Update max gap on the left of this meeting
+            int gap = startTime[i] - (i == 0 ? 0 : endTime[i - 1]);
+            maxLeftGap = Math.Max(maxLeftGap, gap);
+        }
+
+        int maxRightGap = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            int duration = endTime[i] - startTime[i];
+
+            // If this meeting can fit into any right-side gap
+            if (duration <= maxRightGap)
+                canMove[i] = true;
+
+            // Update max gap on the right of this meeting
+            int gap = (i == n - 1 ? eventTime : startTime[i + 1]) - endTime[i];
+            maxRightGap = Math.Max(maxRightGap, gap);
+        }
 
         int maxFreeTime = 0;
-        int rightGap = startTime[0];
-
         for (int i = 0; i < n; i++) {
-            int leftGap = rightGap;
-            rightGap = (i < n - 1) ? startTime[i + 1] - endTime[i] : eventTime - endTime[i];
+            int segmentStart = (i == 0) ? 0 : endTime[i - 1];
+            int segmentEnd = (i == n - 1) ? eventTime : startTime[i + 1];
 
-            int duration = endTime[i] - startTime[i];
-            int freeTime = leftGap + rightGap;
-
-            int skipLeft = 1, skipRight = 1;
-
-            for (int j = gaps.Length - 1; j >= 0; j--) {
-                int gap = gaps[j];
-                if (gap < duration) break;
-                if (gap == leftGap && skipLeft-- > 0) continue;
-                if (gap == rightGap && skipRight-- > 0) continue;
-
-                freeTime += duration;
-                break;
+            if (canMove[i]) {
+                // Entire segment becomes free
+                maxFreeTime = Math.Max(maxFreeTime, segmentEnd - segmentStart);
+            } else {
+                // Only the part not blocked by the meeting is free
+                int occupied = endTime[i] - startTime[i];
+                maxFreeTime = Math.Max(maxFreeTime, segmentEnd - segmentStart - occupied);
             }
-
-            maxFreeTime = Math.Max(maxFreeTime, freeTime);
         }
 
         return maxFreeTime;
