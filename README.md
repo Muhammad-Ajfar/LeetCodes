@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0368-largest-divisible-subset) |
+| [0561-array-partition](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -769,4 +772,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
