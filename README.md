@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1170-shortest-common-supersequence) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
+| [1078-remove-outermost-parentheses](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2021-remove-all-occurrences-of-a-substring) |
