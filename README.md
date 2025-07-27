@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2107-find-unique-binary-string) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
