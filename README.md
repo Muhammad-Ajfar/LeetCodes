@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
