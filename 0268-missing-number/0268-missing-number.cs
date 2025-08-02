@@ -1,10 +1,9 @@
 public class Solution {
     public int MissingNumber(int[] nums) {
-        int n = nums.Length;
-        int sum = 0;
-
-        foreach (int num in nums) sum += num;
-
-        return (n * (n + 1)) / 2 - sum;
+        int xor = 0, n = nums.Length;
+        for (int i = 0; i < n; i++) {
+            xor ^= i ^ nums[i];
+        }
+        return xor ^ n;
     }
 }
