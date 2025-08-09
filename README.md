@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0125-valid-palindrome) |
