@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0952-word-subsets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0952-word-subsets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1160-letter-tile-possibilities](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1227-number-of-equivalent-domino-pairs) |
