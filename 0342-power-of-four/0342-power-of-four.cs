@@ -1,10 +1,8 @@
-public class Solution {
-    public bool IsPowerOfFour(int n) {
-        int a = n;
-        while (a > 1) {
-            if (a % 4 != 0) return false;
-            a /= 4;
-        }
-        return a == 1;
+public class Solution
+{
+    public bool IsPowerOfFour(int n)
+    {
+        // Check n > 0, n is a power of two, and only even bit positions are set
+        return n > 0 && (n & (n - 1)) == 0 && (n & 0x55555555) != 0;
     }
 }
