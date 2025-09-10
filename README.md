@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0386-lexicographical-numbers) |
+| [0975-range-sum-of-bst](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -898,4 +901,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
