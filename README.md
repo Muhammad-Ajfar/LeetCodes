@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1677-matrix-diagonal-sum) |
 | [1813-maximum-erasure-value](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1839-decode-xored-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1839-decode-xored-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1610-xor-operation-in-an-array) |
+| [1839-decode-xored-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2308-divide-array-into-equal-pairs) |
