@@ -877,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1916-find-center-of-star-graph](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1916-find-center-of-star-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
