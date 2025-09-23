@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0344-reverse-string) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0412-fizz-buzz) |
