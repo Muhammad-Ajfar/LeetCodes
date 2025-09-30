@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0797-rabbits-in-forest) |
+| [0898-transpose-matrix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2232-adding-spaces-to-a-string) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1402-count-square-submatrices-with-all-ones) |
