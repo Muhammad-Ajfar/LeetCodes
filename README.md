@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3336-water-bottles-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
