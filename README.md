@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2727-number-of-senior-citizens](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2727-number-of-senior-citizens](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
