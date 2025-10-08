@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2448-count-number-of-bad-pairs) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2479-meeting-rooms-iii) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1677-matrix-diagonal-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
