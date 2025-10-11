@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2881-split-strings-by-separator](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2881-split-strings-by-separator) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2727-number-of-senior-citizens) |
+| [2881-split-strings-by-separator](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
