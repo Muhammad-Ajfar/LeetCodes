@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3643-zero-array-transformation-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
