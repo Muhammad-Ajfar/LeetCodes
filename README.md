@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1063-best-sightseeing-pair) |
+| [1137-height-checker](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1137-height-checker) |
 ## Binary Search Tree
 |  |
 | ------- |
