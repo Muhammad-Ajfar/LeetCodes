@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2249-count-the-hidden-sequences) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2434-design-a-number-container-system) |
