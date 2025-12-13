@@ -1,15 +1,12 @@
 public class Solution {
+    private static readonly string[] Categories = ["electronics", "grocery", "pharmacy", "restaurant"];
+
     public IList<string> ValidateCoupons( string[] code, string[] businessLine, bool[] isActive)
     {
         var result = new List<string>();
 
-        var map = new Dictionary<string, PriorityQueue<string, string>>
-        {
-            ["electronics"] = new(StringComparer.Ordinal),
-            ["grocery"] = new(StringComparer.Ordinal),
-            ["pharmacy"] = new(StringComparer.Ordinal),
-            ["restaurant"] = new(StringComparer.Ordinal)
-        };
+        var map = Categories.ToDictionary( c => c, _ => new PriorityQueue<string, string>(StringComparer.Ordinal)
+        );
 
         for (int i = 0; i < code.Length; i++)
         {
@@ -20,7 +17,7 @@ public class Solution {
                 pq.Enqueue(code[i], code[i]);
         }
 
-        foreach (var key in new[] { "electronics", "grocery", "pharmacy", "restaurant" })
+        foreach (var key in Categories)
         {
             var pq = map[key];
             while (pq.Count > 0) result.Add(pq.Dequeue());
