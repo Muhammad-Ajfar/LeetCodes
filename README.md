@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0797-rabbits-in-forest) |
+| [0832-flipping-an-image](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0476-number-complement) |
+| [0832-flipping-an-image](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0832-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0832-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0941-sort-array-by-parity) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -905,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1396-count-servers-that-communicate) |
