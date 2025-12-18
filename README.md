@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1813-maximum-erasure-value) |
+| [1816-truncate-sentence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1816-truncate-sentence) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1839-decode-xored-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1839-decode-xored-array) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1797-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1816-truncate-sentence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1844-replace-all-digits-with-characters](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1844-replace-all-digits-with-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
