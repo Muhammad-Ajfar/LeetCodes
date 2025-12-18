@@ -1,15 +1,16 @@
 public class Solution {
     public string TruncateSentence(string s, int k) {
-        int spaces = 0;
-        int i;
+        var sb = new StringBuilder();
+        int wordCount = 0;
 
-        for (i = 0; i < s.Length; i++) {
+        for (int i = 0; i < s.Length; i++) {
             if (s[i] == ' ') {
-                spaces++;
-                if (spaces == k) break;
+                wordCount++;
+                if (wordCount == k) break;
             }
+            sb.Append(s[i]);
         }
 
-        return spaces == k ? s.Substring(0, i) : s;
+        return sb.ToString();
     }
 }
