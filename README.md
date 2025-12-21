@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1656-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1677-matrix-diagonal-sum](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1677-matrix-diagonal-sum) |
+| [1773-count-items-matching-a-rule](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1813-maximum-erasure-value) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1773-count-items-matching-a-rule) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1797-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1816-truncate-sentence) |
