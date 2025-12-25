@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1013-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0832-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Muhammad-Ajfar/LeetCodes/tree/master/1839-decode-xored-array) |
